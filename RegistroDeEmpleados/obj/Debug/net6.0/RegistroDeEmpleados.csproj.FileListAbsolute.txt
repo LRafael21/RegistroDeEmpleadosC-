@@ -1,0 +1,15 @@
+C:\Users\Luis Rafael\source\repos\RegistroDeEmpleados\RegistroDeEmpleados\bin\Debug\net6.0\RegistroDeEmpleados.exe
+C:\Users\Luis Rafael\source\repos\RegistroDeEmpleados\RegistroDeEmpleados\bin\Debug\net6.0\RegistroDeEmpleados.deps.json
+C:\Users\Luis Rafael\source\repos\RegistroDeEmpleados\RegistroDeEmpleados\bin\Debug\net6.0\RegistroDeEmpleados.runtimeconfig.json
+C:\Users\Luis Rafael\source\repos\RegistroDeEmpleados\RegistroDeEmpleados\bin\Debug\net6.0\RegistroDeEmpleados.dll
+C:\Users\Luis Rafael\source\repos\RegistroDeEmpleados\RegistroDeEmpleados\bin\Debug\net6.0\RegistroDeEmpleados.pdb
+C:\Users\Luis Rafael\source\repos\RegistroDeEmpleados\RegistroDeEmpleados\obj\Debug\net6.0\RegistroDeEmpleados.csproj.AssemblyReference.cache
+C:\Users\Luis Rafael\source\repos\RegistroDeEmpleados\RegistroDeEmpleados\obj\Debug\net6.0\RegistroDeEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Rafael\source\repos\RegistroDeEmpleados\RegistroDeEmpleados\obj\Debug\net6.0\RegistroDeEmpleados.AssemblyInfoInputs.cache
+C:\Users\Luis Rafael\source\repos\RegistroDeEmpleados\RegistroDeEmpleados\obj\Debug\net6.0\RegistroDeEmpleados.AssemblyInfo.cs
+C:\Users\Luis Rafael\source\repos\RegistroDeEmpleados\RegistroDeEmpleados\obj\Debug\net6.0\RegistroDeEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Luis Rafael\source\repos\RegistroDeEmpleados\RegistroDeEmpleados\obj\Debug\net6.0\RegistroDeEmpleados.dll
+C:\Users\Luis Rafael\source\repos\RegistroDeEmpleados\RegistroDeEmpleados\obj\Debug\net6.0\refint\RegistroDeEmpleados.dll
+C:\Users\Luis Rafael\source\repos\RegistroDeEmpleados\RegistroDeEmpleados\obj\Debug\net6.0\RegistroDeEmpleados.pdb
+C:\Users\Luis Rafael\source\repos\RegistroDeEmpleados\RegistroDeEmpleados\obj\Debug\net6.0\RegistroDeEmpleados.genruntimeconfig.cache
+C:\Users\Luis Rafael\source\repos\RegistroDeEmpleados\RegistroDeEmpleados\obj\Debug\net6.0\ref\RegistroDeEmpleados.dll
